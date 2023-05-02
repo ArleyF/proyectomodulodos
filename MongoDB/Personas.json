@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "64504adcbde58b9e029bbac5"
+  },
+  "nombre": "Arley",
+  "apellido": "Fuentes",
+  "edad": 33,
+  "cedula": "1038439006"
+}]

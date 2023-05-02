@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "64504bacbde58b9e029bbac7"
+  },
+  "nombre": "Putin",
+  "genero": "Macho",
+  "raza": "Azul Ruso",
+  "veterinaria": {
+    "$oid": "64504b31bde58b9e029bbac6"
+  }
+}]

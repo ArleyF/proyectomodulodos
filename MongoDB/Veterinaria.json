@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "64504b31bde58b9e029bbac6"
+  },
+  "nombre": "VeterinaFa",
+  "direccion": "Calle 28 #33-31",
+  "telefono": "3117409297"
+}]
