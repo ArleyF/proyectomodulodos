@@ -195,3 +195,9 @@ db.Animal.insert({
 ##### Capturas:
 ![DiaCaptura 1 MongoDB](/MongoDB1.png)
 ![DiaCaptura 2 MongoDB](/MongoDB2.png)
+
+### Parte 3
+  Repositorio: [https://github.com/ArleyF/proyectomodulodos](https://github.com/ArleyF/proyectomodulodos )
+
+### Parte 4
+  Este ejercicio hace repaso en el Back-end, debido a que encontramos métodos y tecnologías para modelar (POO), gestionar y procesar datos como es el uso de las bases de datos, es decir, son funcionalidades que realizamos debajo de la interfaz de usuario visible (Front-end) que es el otro apartado en el cual no nos enfocamos.
